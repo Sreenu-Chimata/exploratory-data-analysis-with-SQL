@@ -1,2 +1,2 @@
-# exploratory-data-analysis-with-SQL
-exploratory data analysis with SQL
+# Exploratory-data-analysis-with-SQL
+Exploratory data analysis with SQL
